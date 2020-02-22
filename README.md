@@ -1,5 +1,5 @@
 # shooting-stars
-Projeto para fixação de conhecimento o qual foi desenvolvido uma calculadora utilizando React JS.
+Projeto para fixação de conhecimento o qual foi desenvolvido um jogo simples utilizando React JS.
 
 ## Configuração
 
