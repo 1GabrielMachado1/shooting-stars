@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'PressStart2P';
+  src: url('./fonts/PressStart2P-Regular.ttf')
+}
+
+* {
+  font-family: 'PressStart2P', monospace;
+}
+
+body {
+  color: white;
+  background: linear-gradient(to top, rgb(0, 0, 0), rgb(67, 67, 67));
+}
+
+.lets-rock {
+  width: 550px;
+  position: absolute;
+  top: calc(40% - 45px);
+  left: calc(70% - 550px);
+  z-index: 10;
+  font-size: 50px;
+  text-transform: uppercase;
+  background: linear-gradient(to right top, #1a2a6c, #4d246e, #721866, #900358, #a50043, #b51c39, #c2332d, #ca4a1d, #da671c, #e8831d, #f49f22, #fdbb2d);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

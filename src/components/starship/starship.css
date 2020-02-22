@@ -1,0 +1,6 @@
+.starship {
+    position: absolute;
+    width: 82px;
+    /* left: calc(50% - 41px); */
+    bottom: 5%;
+}
