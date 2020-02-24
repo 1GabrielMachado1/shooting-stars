@@ -3,16 +3,14 @@ Projeto para fixação de conhecimento o qual foi desenvolvido um jogo simples u
 
 ## Configuração
 
-### `npm i`
+### `cd calculadora-react`
 
-Você precisará instalar as dependências descritas no package.json. Na pasta raiz do projeto rode o comando npm i.
+Entre na pasta raíz do projeto.
 
-### `npm start`
+### `npm i --serve -g`
 
-Após instalar as dependências, também na pasta raiz do projeto rode o comando npm start.
+Você precisará instalar o pacote serve do npm globalmente utilizando o comando citado acima. 
 
-Este comando executa o aplicativo no modo de desenvolvimento. <br />
-Abra [http: // localhost: 3000] (http: // localhost: 3000) para visualizá-lo no navegador.
+### `serve -s build`
 
-A página será recarregada se você fizer edições. <br />
-Você também verá erros de falhas no console.
+Após instalar as dependências do pacote serve, rode o comando serve -s build para iniciar na pasta raiz do projeto.
