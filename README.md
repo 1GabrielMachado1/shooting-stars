@@ -3,7 +3,7 @@ Projeto para fixação de conhecimento o qual foi desenvolvido um jogo simples u
 
 ## Configuração
 
-### `cd calculadora-react`
+### `cd shooting-stars`
 
 Entre na pasta raíz do projeto.
 
